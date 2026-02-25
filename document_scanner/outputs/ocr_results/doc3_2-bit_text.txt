@@ -1,0 +1,14 @@
+OCR Results for Document 3 - 2-bit
+======================================================================
+
+Best Method: original_gray
+Characters extracted: 41
+Words extracted: 5
+
+======================================================================
+EXTRACTED TEXT:
+======================================================================
+Microsoft Certified Azure Al Fundamentals
+======================================================================
+Extracted on: 2026-02-24 21:41:39
+Image: quantized_2-bit

@@ -1,0 +1,14 @@
+OCR Results for Document 3 - sampled_512
+======================================================================
+
+Best Method: eroded
+Characters extracted: 41
+Words extracted: 6
+
+======================================================================
+EXTRACTED TEXT:
+======================================================================
+Microsoft Certified Azure Al Furdamenta s
+======================================================================
+Extracted on: 2026-02-24 21:40:06
+Image: sampled_512

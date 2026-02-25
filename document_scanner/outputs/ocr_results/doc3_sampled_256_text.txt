@@ -1,0 +1,14 @@
+OCR Results for Document 3 - sampled_256
+======================================================================
+
+Best Method: adaptive
+Characters extracted: 45
+Words extracted: 6
+
+======================================================================
+EXTRACTED TEXT:
+======================================================================
+Microsoft Certified ‘Azure Al Fundamentals: I
+======================================================================
+Extracted on: 2026-02-24 21:40:23
+Image: sampled_256

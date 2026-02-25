@@ -1,0 +1,66 @@
+OCR QUALITY COMPARISON REPORT - DOCUMENT 3
+======================================================================
+
+ORIGINAL (512x512, 8-bit):
+----------------------------------------
+Microsoft Certified Azure Al Furdamenta s
+
+[Characters extracted: 41]
+
+========================================
+
+SAMPLED - 512x512:
+----------------------------------------
+Microsoft Certified Azure Al Furdamenta s
+
+[Characters extracted: 41 | Quality: 100.0% of original]
+
+========================================
+
+SAMPLED - 256x256:
+----------------------------------------
+Microsoft Certified ‘Azure Al Fundamentals: I
+
+[Characters extracted: 45 | Quality: 109.8% of original]
+
+========================================
+
+SAMPLED - 128x128:
+----------------------------------------
+Micro rtfied
+
+[Characters extracted: 12 | Quality: 29.3% of original]
+
+========================================
+
+QUANTIZED - 8-bit:
+----------------------------------------
+Microsoft Certified Azure Al Furdamenta s
+
+[Characters extracted: 41 | Quality: 100.0% of original]
+
+========================================
+
+QUANTIZED - 4-bit:
+----------------------------------------
+Microsoft Certified Azure Al Furdamenta s
+
+[Characters extracted: 41 | Quality: 100.0% of original]
+
+========================================
+
+QUANTIZED - 2-bit:
+----------------------------------------
+Microsoft Certified Azure Al Fundamentals
+
+[Characters extracted: 41 | Quality: 100.0% of original]
+
+========================================
+
+
+OCR QUALITY SUMMARY:
+----------------------------------------
+Based on text extraction quality:
+✓ Best Quality: Original (512x512, 8-bit) - 41 chars
+→ Medium Quality: 256x256 or 4-bit - Varies
+✗ Poor Quality: 128x128 or 2-bit - Minimal extraction

@@ -1,0 +1,66 @@
+OCR QUALITY COMPARISON REPORT - DOCUMENT 2
+======================================================================
+
+ORIGINAL (512x512, 8-bit):
+----------------------------------------
+(2 The Enhanced Version Will:
+
+[Characters extracted: 29]
+
+========================================
+
+SAMPLED - 512x512:
+----------------------------------------
+(2 The Enhanced Version Will:
+
+[Characters extracted: 29 | Quality: 100.0% of original]
+
+========================================
+
+SAMPLED - 256x256:
+----------------------------------------
+(© The Enhanced Version Will:
+
+[Characters extracted: 29 | Quality: 100.0% of original]
+
+========================================
+
+SAMPLED - 128x128:
+----------------------------------------
+nebhwed vena wt
+
+[Characters extracted: 15 | Quality: 51.7% of original]
+
+========================================
+
+QUANTIZED - 8-bit:
+----------------------------------------
+(2 The Enhanced Version Will:
+
+[Characters extracted: 29 | Quality: 100.0% of original]
+
+========================================
+
+QUANTIZED - 4-bit:
+----------------------------------------
+L. The Enhanced Version Will:
+
+[Characters extracted: 29 | Quality: 100.0% of original]
+
+========================================
+
+QUANTIZED - 2-bit:
+----------------------------------------
+© The Enhanced Version Will:
+
+[Characters extracted: 28 | Quality: 96.6% of original]
+
+========================================
+
+
+OCR QUALITY SUMMARY:
+----------------------------------------
+Based on text extraction quality:
+✓ Best Quality: Original (512x512, 8-bit) - 29 chars
+→ Medium Quality: 256x256 or 4-bit - Varies
+✗ Poor Quality: 128x128 or 2-bit - Minimal extraction
