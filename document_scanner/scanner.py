@@ -1,6 +1,6 @@
 """
-Name       : Himanshi Sharma
-Roll No    : 2301010428
+Name       : Tanmay Gaur
+Roll No    : 2301010
 Course     : Image Processing & Computer Vision
 Assignment : Smart Document Scanner & Quality Analysis System (with Enhanced OCR)
 Date       : 10-02-2026
@@ -613,4 +613,5 @@ if __name__ == "__main__":
     print(f"   Successfully processed: {successful} document(s)")
     print(f"   Outputs saved in: outputs/")
     print(f"{'='*70}")
+
     print("\n✅ Assignment completed!")
