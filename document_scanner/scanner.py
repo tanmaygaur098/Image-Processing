@@ -1,6 +1,6 @@
 """
 Name       : Tanmay Gaur
-Roll No    : 2301010
+Roll No    : 2301010419
 Course     : Image Processing & Computer Vision
 Assignment : Smart Document Scanner & Quality Analysis System (with Enhanced OCR)
 Date       : 10-02-2026
@@ -615,3 +615,4 @@ if __name__ == "__main__":
     print(f"{'='*70}")
 
     print("\n✅ Assignment completed!")
+
