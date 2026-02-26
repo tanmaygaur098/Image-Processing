@@ -3,8 +3,8 @@
 
 """
 ================================================================================
-Name: Himanshi Sharma
-Roll No: 2301010428
+Name: Tanmay Gaur
+Roll No: 2301010419
 Course: Image Processing & Computer Vision
 Unit: Image Restoration
 Assignment: Noise Modeling and Image Restoration using Python
@@ -491,4 +491,5 @@ def main():
     print("\n🔗 Don't forget to upload to GitHub and submit the URL!")
 
 if __name__ == "__main__":
+
     main()
