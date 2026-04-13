@@ -1,6 +1,6 @@
 # ---------------------------------------------
-# Student Name: Your Name
-# Roll No: Your Roll No
+# Student Name: Tanmay Gaur
+# Roll No: 2301010419
 # Course: Image Processing & Computer Vision
 # Assignment: Intelligent Image Enhancement System
 # ---------------------------------------------
