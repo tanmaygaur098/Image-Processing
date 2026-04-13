@@ -1,6 +1,6 @@
 """
-Name: YOUR NAME
-Roll No: YOUR ROLL NO
+Name: Tanmay Gaur
+Roll No: 2301010419
 Course: Image Processing & Computer Vision
 Assignment: Medical Image Compression & Segmentation
 """
